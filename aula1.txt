@@ -1,2 +1,5 @@
 CONTROLADORES DE VERSÃO
-GIT
+
+GIT - Distribuido
+
+Mais utilizado atualmente!
